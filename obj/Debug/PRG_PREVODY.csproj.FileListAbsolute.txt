@@ -1,0 +1,10 @@
+G:\PRG\PREVODY\PRG_PREVODY\bin\Debug\PRG_PREVODY.exe.config
+G:\PRG\PREVODY\PRG_PREVODY\bin\Debug\PRG_PREVODY.exe
+G:\PRG\PREVODY\PRG_PREVODY\bin\Debug\PRG_PREVODY.pdb
+G:\PRG\PREVODY\PRG_PREVODY\obj\Debug\PRG_PREVODY.csprojAssemblyReference.cache
+G:\PRG\PREVODY\PRG_PREVODY\obj\Debug\PRG_PREVODY.Form1.resources
+G:\PRG\PREVODY\PRG_PREVODY\obj\Debug\PRG_PREVODY.Properties.Resources.resources
+G:\PRG\PREVODY\PRG_PREVODY\obj\Debug\PRG_PREVODY.csproj.GenerateResource.cache
+G:\PRG\PREVODY\PRG_PREVODY\obj\Debug\PRG_PREVODY.csproj.CoreCompileInputs.cache
+G:\PRG\PREVODY\PRG_PREVODY\obj\Debug\PRG_PREVODY.exe
+G:\PRG\PREVODY\PRG_PREVODY\obj\Debug\PRG_PREVODY.pdb
